@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015.10.26 20:44:44.485.dproj,C:\Users\Кендибобер\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\Кендибобер\Documents\RAD Studio\Projects\HW2.dproj</Transaction>
+    <Transaction>2015.10.26 20:44:54.099.pas,C:\Users\Кендибобер\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\Кендибобер\Documents\RAD Studio\Projects\HW2.pas</Transaction>
+    <Transaction>2015.10.26 20:44:54.099.dfm,C:\Users\Кендибобер\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\Кендибобер\Documents\RAD Studio\Projects\HW2.dfm</Transaction>
+    <Transaction>2015.10.26 20:45:30.184.pas,C:\Users\Кендибобер\Documents\RAD Studio\Projects\HW2.pas=C:\Users\Кендибобер\Documents\RAD Studio\Projects\HW.pas</Transaction>
+    <Transaction>2015.10.26 20:45:30.184.dfm,C:\Users\Кендибобер\Documents\RAD Studio\Projects\HW2.dfm=C:\Users\Кендибобер\Documents\RAD Studio\Projects\HW.dfm</Transaction>
+    <Transaction>2015.10.26 20:45:32.621.dproj,C:\Users\Кендибобер\Documents\RAD Studio\Projects\HW2.dproj=C:\Users\Кендибобер\Documents\RAD Studio\Projects\HW2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
