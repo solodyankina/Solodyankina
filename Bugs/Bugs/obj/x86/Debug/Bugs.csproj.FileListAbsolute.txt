@@ -1,0 +1,8 @@
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\Bugs\Bugs\bin\Debug\Bugs.exe
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\Bugs\Bugs\bin\Debug\Bugs.pdb
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\Bugs\Bugs\obj\x86\Debug\Bugs.Form1.resources
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\Bugs\Bugs\obj\x86\Debug\Bugs.Properties.Resources.resources
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\Bugs\Bugs\obj\x86\Debug\Bugs.csproj.GenerateResource.Cache
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\Bugs\Bugs\obj\x86\Debug\Bugs.exe
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\Bugs\Bugs\obj\x86\Debug\Bugs.pdb
+C:\Users\KujbanovME.NPOA\documents\visual studio 2010\Projects\Bugs\Bugs\obj\x86\Debug\Bugs.csprojResolveAssemblyReference.cache
